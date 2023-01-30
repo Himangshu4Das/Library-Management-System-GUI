@@ -1,0 +1,22 @@
+[
+    {
+        "id": "1",
+        "name": "Deep Learning",
+        "description": "deep learning book",
+        "isbn": "2130523-25-3-5",
+        "page_count": 621,
+        "issued": false,
+        "author": "Ian Goodfellow",
+        "year": 2016
+    },
+    {
+        "id": "2",
+        "name": "Deep Learning 2",
+        "description": "deep learning book 2",
+        "isbn": "2130523-25-3-8",
+        "page_count": 623,
+        "issued": false,
+        "author": "Ian Goodfellow",
+        "year": 2017
+    }
+]
